@@ -1,4 +1,4 @@
-# UD-GMLParser
+# UD-cityGMLParser
 
 ## Previous work
 - [Paeser cityGML POM](https://github.com/VCityTeam/UD-GMLParser/tree/ParserGML-POM) (january 2021 - june 2021)
